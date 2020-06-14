@@ -33,3 +33,23 @@ git commit
 
 Описание
 
+git push  #на гитхаб
+
+(10:14) про pull request
+============3. поучение изменений
+
+git pull
+
+git remote -v #см
+
+git push  #то же что и  с git push origin
+
+------
+
+git remote add upstream https://url/url #забираем 
+git remote -v #смотрим результат
+git pull upstream master  #для получения изменений, master - основная ветка
+комит слияние в редакторе
+
+
+
