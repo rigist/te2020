@@ -1,0 +1,35 @@
+git-scm.com
+
+git config --global user.name "ilgiz"  #инф о текущ пользователе
+
+git config --global user.email example@exapmle.com
+
+git config --global core.editor "atom --wait"  #Путь
+----------------------------------
+
+git clone https://github.com/rigist/te2020.git #сохр проект с гитхаба
+
+upstream исходный проект, форк - origin,  на компе - локальная копия
+
+git-bash-promt скрипт выводит детали
+
+сохранить изменения в git (4:37):
+
+git status #что изменилось?
+
+modified - что изменилось
+untracked неотслеживаемые
+
+git diff #что именно поменяли?
+
+F1  install code PATH (6:26)
+
+git add _my.html  #добав
+git add _script.js
+git add -A
+
+git commit
+Заголовок 
+
+Описание
+
